@@ -1,4 +1,4 @@
-# My build of [dmenu](https://tools.suckless.org/dmenu/) - dynamic menu for X
+# <img src="./misc/dmenu-repo.png" width="24"/> My build of [dmenu](https://tools.suckless.org/dmenu/) - dynamic menu for X
 ![screenshot](./misc/dmenu.png)  
 dmenu 5.4
 
