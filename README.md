@@ -4,6 +4,7 @@ dmenu 5.4
 
 ### Patches applied
 1. [password](https://tools.suckless.org/dmenu/patches/password/)
+2. [password-asterisk](./patches/dmenu-password-asterisk-5.4.diff)
 
 ### scripting
 Below are some of my scripts utilizing dmenu (and wmenu for Wayland support):
